@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>8706706103-uoquo99frkq64794d8f8ka7isuv892te.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.8706706103-uoquo99frkq64794d8f8ka7isuv892te</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1DRpA2-zyh5xs62tG6Q742vKj2ohAzXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>8706706103</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cgipromotionalapp</string>
+	<key>PROJECT_ID</key>
+	<string>cgipromotionalapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cgipromotionalapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:8706706103:ios:fb82f8f7206cdc8b111b32</string>
+	<key>DATABASE_URL</key>
+	<string>https://cgipromotionalapp.firebaseio.com</string>
+</dict>
+</plist>
